@@ -1,0 +1,15 @@
+Package: consonance_demo
+Type: Package
+Title: Consonance demo
+Version: 0.0.01
+Author: person("Peter", "Harrison", email = "pmc.harrison@gmail.com", role = c("aut", "cre"))
+Depends: R (>= 3.4.0)
+Maintainer: Peter Harrison <pmch2@cam.ac.uk>
+Description: Consonance modelling demo
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: incon
+Remotes: 
+    pmcharrison/incon@consolidate
+Byte-Compile: yes
